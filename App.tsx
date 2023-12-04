@@ -74,7 +74,7 @@ function App(): JSX.Element {
         <Header />
         <View
           style={{
-            backgroundColor: Colors.seagreen,
+            backgroundColor: '#FAF6F0',
           }}>
           <Section title="Nama">
             Anisa Firdiana
@@ -102,15 +102,16 @@ function App(): JSX.Element {
 
 const styles = StyleSheet.create({
   sectionContainer: {
-    marginTop: 32,
+    marginTop: 10,
     paddingHorizontal: 24,
   },
   sectionTitle: {
     fontSize: 24,
     fontWeight: '600',
+    marginTop: 15
   },
   sectionDescription: {
-    marginTop: 8,
+    marginTop: 5,
     fontSize: 18,
     fontWeight: '400',
   },
@@ -119,4 +120,15 @@ const styles = StyleSheet.create({
   },
 });
 
+// import React from "react";
+// import { NavigationContainer } from "@react-navigation/native"
+// import Route from './routes/routes';
+
+// const App = () => {
+//   return (
+//     <NavigationContainer>
+//       <Route />
+//     </NavigationContainer>
+//   );
+// };
 export default App;

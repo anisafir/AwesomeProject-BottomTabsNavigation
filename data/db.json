@@ -1,0 +1,67 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Anisa Firdiana",
+      "nim": "21/482988/SV/20036",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "icon": "seedling",
+      "color": "#96C291"
+    },
+    {
+      "nama": "Fasiha Firta",
+      "nim": "21/480358/SV/19618",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "icon": "snowflake",
+      "color": "#61A3BA",
+      "id": 2
+    },
+    {
+      "nama": "Faya Husna",
+      "nim": "21/483192/SV/20112",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "icon": "docker",
+      "color": "#C0DBEA",
+      "id": 3
+    },
+    {
+      "nama": "Jaehyun",
+      "nim": "12714021997",
+      "kelas": "B",
+      "jeniskelamin": "Laki-laki",
+      "color": "#000000",
+      "icon": "headphones",
+      "id": 6
+    },
+    {
+      "nama": "Jungwoo",
+      "nim": "12719021998",
+      "kelas": "B",
+      "jeniskelamin": "Laki-laki",
+      "color": "#776B5D",
+      "icon": "dog",
+      "id": 8
+    },
+    {
+      "nama": "Jaemin",
+      "nim": "27628575986",
+      "kelas": "B",
+      "jeniskelamin": "Laki-laki",
+      "color": "#61A3BA",
+      "icon": "cloud-moon",
+      "id": 9
+    },
+    {
+      "nama": "Lee Jeno",
+      "nim": "23566375858",
+      "kelas": "B",
+      "jeniskelamin": "Laki-laki",
+      "color": "#000000",
+      "icon": "ghost",
+      "id": 10
+    }
+  ]
+}
