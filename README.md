@@ -2,13 +2,13 @@ INFORMASI PRODUK RESPONSI:
 
 1. NAMA PRODUK: KARIMUN YUKS
    
-3. DESKRIPSI PRODUK: KARIMUN YUKS merupakan sebuah Aplikasi yang mengangkat tema peta lokasi 
+2. DESKRIPSI PRODUK: KARIMUN YUKS merupakan sebuah Aplikasi yang mengangkat tema peta lokasi 
    objek yang berada di Pulau Karimunjawa. KARIMUN YUKS menampilkan beberapa fitur yang dapat 
    mendukung wisatawan yang tertarik untuk datang berwisata ke Pulau Karimunjawa, seperti 
    daftar lokasi objek wisata yang ada di Pulau Karimunjawa yang dilengkapi dengan foto objek 
    wisata.
    
-5. KOMPONEN PEMBANGUN PRODUK: 
+3. KOMPONEN PEMBANGUN PRODUK: 
    a. Framework React Native - React
    b. View
    c. Text
@@ -30,13 +30,13 @@ INFORMASI PRODUK RESPONSI:
    s. SpreadSheet - Apps Script
    t. Form
    
-7. SUMBER DATA:
+4. SUMBER DATA:
    a. Google Maps - Titik Koordinat dan Nama Lokasi Objek Wisata
    b. Google - Nama dan Informasi Tambahan Lokasi Objek Wisata
    c. SpreadSheet - Tabel berisikan Informasi untuk GeoJSON dan JSON
    d. Leaflet JS - Base Map
    
-9. TANGKAPAN LAYAR KOMPONEN PENTING PRODUK:
+5. TANGKAPAN LAYAR KOMPONEN PENTING PRODUK:
    a. ![image](https://github.com/anisafir/KarimunYuks_PGPBL/assets/110833201/bc8278be-1926-47e8-97f7-dd7446db971a)
    b. ![image](https://github.com/anisafir/KarimunYuks_PGPBL/assets/110833201/aa9ca495-2d08-4729-a74c-d50a5faa707e)
    c. ![image](https://github.com/anisafir/KarimunYuks_PGPBL/assets/110833201/f109d418-c8b6-4c5b-b47a-9ad47517a988)
