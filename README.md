@@ -38,16 +38,22 @@ INFORMASI PRODUK RESPONSI:
    
 5. TANGKAPAN LAYAR KOMPONEN PENTING PRODUK:
    a. Home Page
+   
       ![image](https://github.com/anisafir/KarimunYuks_PGPBL/assets/110833201/bc8278be-1926-47e8-97f7-dd7446db971a)
    b. Add Data Page
+   
       ![image](https://github.com/anisafir/KarimunYuks_PGPBL/assets/110833201/aa9ca495-2d08-4729-a74c-d50a5faa707e)
    c. Map Page
+   
       ![image](https://github.com/anisafir/KarimunYuks_PGPBL/assets/110833201/f109d418-c8b6-4c5b-b47a-9ad47517a988)
    d. List Lokasi Page
+   
       ![image](https://github.com/anisafir/KarimunYuks_PGPBL/assets/110833201/fb4dba2a-aa47-48ff-a61f-dc7f1ee83107)
    e. Gallery Page
+   
       ![image](https://github.com/anisafir/KarimunYuks_PGPBL/assets/110833201/74528056-bde8-42e5-b7d6-89f11b75eb17)
    f. Profile Page
+   
       ![image](https://github.com/anisafir/KarimunYuks_PGPBL/assets/110833201/558f99ea-e2e6-4a9f-b866-b2faf7cafff1)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
